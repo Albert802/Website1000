@@ -1,1 +1,0 @@
-web: gunicorn yardnoise.wsgi --log-file -
